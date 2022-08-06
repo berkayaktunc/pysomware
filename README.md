@@ -9,5 +9,7 @@ Do not use the file illegally to anyone. Code is written for education purpose o
 
 This is simple ransomware using Python. Need to modify **ransom.py** so that it can affect the whole system or just the file. **get_only_that_files()** effects only that file, but **get_all_files()** effects whole system. Just be careful while using and do not use illegally.
 
+After you run **ransom.py** notice that **key** file is created. Do not lose it. Otherwise you may not decrypt your files.
+
 # Requirements
 - Python
