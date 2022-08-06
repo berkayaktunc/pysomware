@@ -54,7 +54,4 @@ def main():
 
 
 if __name__ == "__main__":
-    test = get_all_files()
-    print(str(test))
-else:
     main()
